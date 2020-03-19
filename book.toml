@@ -19,3 +19,4 @@ copyable = true
 copy-js = true
 
 [preprocessor.links]
+[preprocessor.cat-prep]
