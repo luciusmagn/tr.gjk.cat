@@ -7,4 +7,11 @@ source $HOME/.cargo/env
 cargo install mdbook
 cargo install mdbook-cat-prep
 
+# reclone required because we need git
+git clone https://github.com/gjk-cat/tr.gjk.cat
+
+cd tr.gjk.cat
+
 mdbook build
+
+cp -r book ../book
