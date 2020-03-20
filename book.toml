@@ -6,6 +6,8 @@ src = "src"
 title = "GJK Cat Informatika - Repozitář studijních materiálů z informatiky"
 create-missing = true
 
+[preprocessor.links]
+[output.epub]
 [output.html]
 theme = "src/theme"
 
@@ -18,5 +20,4 @@ editable = true
 copyable = true
 copy-js = true
 
-[preprocessor.links]
 [preprocessor.cat-prep]
