@@ -1,5 +1,5 @@
-nazev = "Článek 1"
-tagy = ["wololo"]
+nazev = "Článek 2"
+tagy = ["wololo", "tag2"]
 
 +++
 
