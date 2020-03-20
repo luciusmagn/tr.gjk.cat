@@ -3,7 +3,7 @@ authors = ["Lukáš Hozda"]
 language = "cs"
 multilingual = false
 src = "src"
-title = "GJK Cat Informatika - Repozitář studijních materiálů z informatiky"
+title = "GJK Cat Dokumenty - Repozitář informací o sazbě a formátování a tvorbě dokumentů"
 create-missing = true
 
 [preprocessor.links]
